@@ -17,3 +17,4 @@ Jul 07 till  Jul 09 :
 
 JUl 18 : I've finished a simple Machine Learning Project on iris dataset in Python just by step by step following Jason Brownlee (https://machinelearningmastery.com/machine-learning-in-python-step-by-step/). I will upload the code here but it is not mine. I have just used Jason's code :)
 
+Jul 19 : Batch and an Epoch in a Neural Network
